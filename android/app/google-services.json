@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617055286978",
+    "project_id": "blindshake-271b3",
+    "storage_bucket": "blindshake-271b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617055286978:android:59bf073a9a1f5d60946d5b",
+        "android_client_info": {
+          "package_name": "com.blindshake.blind_shake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617055286978-sjgspo0g1b0bdlbj6p8a37c8h3erecpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCPmbv8L-MrL895CRotViaVPIfuIYGbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617055286978-sjgspo0g1b0bdlbj6p8a37c8h3erecpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

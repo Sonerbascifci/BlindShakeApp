@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze:*)",
+      "Bash(dart run build_runner:*)",
+      "Bash(flutter build:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
